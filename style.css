@@ -24,8 +24,8 @@ height: 60px;}
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border: 2px solid tomato;
-    border-radius: 10px;
+    /*border: 2px solid tomato;
+    border-radius: 10px;*/
     height: 100vh;
     background-image: url("./istockphoto-1419766496-170667a.webp");
 
@@ -38,3 +38,12 @@ background-color: red;
 padding: 5px;
 border-radius: 10px;
 }
+.img-aboutus{width: 250px;
+height: 200px;}
+.about-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+background-image: url(./photo-1579546929518-9e396f3cc809.webp);}
+.aboutus-header{text-align: center;}
+
