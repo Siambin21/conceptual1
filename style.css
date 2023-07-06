@@ -7,9 +7,34 @@ height: 60px;}
     display: flex;
     align-items: center;
     justify-content: space-around;
+    background-color: rgb(135, 132, 132);
 }
 .manus{
     display: flex;
   
 }
-.list{margin: 10px;}
+.list{margin: 10px;
+    cursor: pointer;
+}
+.list:hover{
+    color: aquamarine;
+}
+.bannar-img{width: 300px;}
+.banner-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 2px solid tomato;
+    border-radius: 10px;
+    height: 100vh;
+    background-image: url("./istockphoto-1419766496-170667a.webp");
+
+
+
+}
+.banner-text{color: aqua;}
+button{color: rgb(209, 187, 187);
+background-color: red;
+padding: 5px;
+border-radius: 10px;
+}
