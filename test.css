@@ -3,3 +3,11 @@ padding: 0px;}
 .test{color: blueviolet;
 cursor: crosshair;
 }
+.box{padding: 20px;
+background-color: aquamarine;
+width: 110px;}
+.box2{background-color: green;}
+.box3{background-color: tomato;}
+.container{
+    
+}
