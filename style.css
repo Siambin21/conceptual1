@@ -1,0 +1,15 @@
+*{margin: 0px;
+padding: 0px;}
+.logo{width: 200px;
+height: 60px;}
+.menu-container{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.manus{
+    display: flex;
+  
+}
+.list{margin: 10px;}
