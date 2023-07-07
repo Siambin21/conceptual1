@@ -46,4 +46,17 @@ height: 200px;}
     align-items: center;
 background-image: url(./photo-1579546929518-9e396f3cc809.webp);}
 .aboutus-header{text-align: center;}
-
+.box{
+    width: 200px;
+    height: 300px;
+    align-items: center;
+    
+}
+.box-container{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+    height: 500px;
+    align-items: center;
+}
